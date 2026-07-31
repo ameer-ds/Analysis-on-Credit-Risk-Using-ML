@@ -8,22 +8,22 @@ By analyzing these attributes, the model predicts whether a customer poses a hig
 This helps financial institutions make better lending decisions and reduce potential losses.(Predict credit risk of customers)
 
 ## Dataset :-
--Gender	
--Age	
--Debt
--Married	
--BankCustomer
--Industry
--Ethnicity
--YearsEmployed	
--PriorDefault
--Employed	
--CreditScore
--DriversLicense
--Citizen	
--ZipCode
--Income
--Approved (Target Variable)
+- Gender
+- Age
+- Debt
+- Married
+- Bank Customer
+- Industry
+- Ethnicity
+- Years Employed
+- Prior Default
+- Employed
+- Credit Score
+- Driver's License
+- Citizen
+- Zip Code
+- Income
+- Approved (Target Variable)
 
 ## Technologies Used
 Python, Google Colab, Pandas, NumPy, Matplotlib, Scikit-learn, 
