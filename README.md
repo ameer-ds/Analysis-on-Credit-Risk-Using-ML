@@ -6,6 +6,8 @@ By analyzing these attributes, the model predicts whether a customer poses a hig
 This helps financial institutions make better lending decisions and reduce potential losses.(Predict credit risk of customers)
 
 ## Dataset :-
+
+
 1)Gender	
 2)Age	
 3)Debt
@@ -24,6 +26,7 @@ This helps financial institutions make better lending decisions and reduce poten
 -Approved (Target Variable)
 
 ## Technologies Used
+
 Python
 Google Colab
 Pandas
