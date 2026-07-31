@@ -47,3 +47,11 @@ Model Building
 -Gradient Boosting
 -XGBoost
 -Artificial Neural Network (ANN)
+
+Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Scikit-learn
+Google Colab
