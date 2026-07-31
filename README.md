@@ -24,7 +24,7 @@ This helps financial institutions make better lending decisions and reduce poten
 -Approved (Target Variable)
 
 ## Technologies Used
-Python
+Python, Google Colab
 Google Colab
 Pandas
 NumPy
