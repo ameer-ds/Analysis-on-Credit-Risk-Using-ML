@@ -27,7 +27,14 @@ This helps financial institutions make better lending decisions and reduce poten
 
 ## Technologies Used
 Python, Google Colab, Pandas, NumPy, Matplotlib, Scikit-learn, 
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
 - TensorFlow/Keras
+  
 
 ## Machine Learning Models
 -Logistic Regression
