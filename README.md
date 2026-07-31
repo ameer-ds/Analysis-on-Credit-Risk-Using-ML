@@ -24,14 +24,8 @@ This helps financial institutions make better lending decisions and reduce poten
 -Approved (Target Variable)
 
 ## Technologies Used
-Python, Google Colab
-Google Colab
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
-ANN
-Model Building
+Python, Google Colab, Pandas, NumPy, Matplotlib, Scikit-learn, ANN, Model Building
+
 
 ## Machine Learning Models
 -Logistic Regression
