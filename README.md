@@ -6,9 +6,9 @@ By analyzing these attributes, the model predicts whether a customer poses a hig
 This helps financial institutions make better lending decisions and reduce potential losses.(Predict credit risk of customers)
 
 ## Dataset :-
--Gender	
--Age	
--Debt
+1)Gender	
+2)Age	
+3)Debt
 -Married	
 -BankCustomer
 -Industry
