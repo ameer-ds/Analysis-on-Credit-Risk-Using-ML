@@ -6,11 +6,9 @@ By analyzing these attributes, the model predicts whether a customer poses a hig
 This helps financial institutions make better lending decisions and reduce potential losses.(Predict credit risk of customers)
 
 ## Dataset :-
-
-
-1)Gender	
-2)Age	
-3)Debt
+-Gender	
+-Age	
+-Debt
 -Married	
 -BankCustomer
 -Industry
@@ -26,7 +24,6 @@ This helps financial institutions make better lending decisions and reduce poten
 -Approved (Target Variable)
 
 ## Technologies Used
-
 Python
 Google Colab
 Pandas
@@ -36,7 +33,7 @@ Scikit-learn
 ANN
 Model Building
 
-# Machine Learning Models
+## Machine Learning Models
 -Logistic Regression
 -Decision Tree
 -K-Nearest Neighbors (KNN)
@@ -48,10 +45,4 @@ Model Building
 -XGBoost
 -Artificial Neural Network (ANN)
 
-# Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
-Google Colab
+
