@@ -1,4 +1,4 @@
-## Credit Risk Prediction using Machine Learning ##
+### Credit Risk Prediction using Machine Learning 
 
 # Objective :-
 The goal is to classify customers based on their likelihood of default using 16  attributes.
@@ -24,23 +24,23 @@ This helps financial institutions make better lending decisions and reduce poten
 -Approved (Target Variable)
 
 # Technologies Used
-Python
-Google Colab
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
-ANN
-Models 
+-Python
+-Google Colab
+-Pandas
+-NumPy
+-Matplotlib
+-Scikit-learn
+-ANN
+-Model Building
 
 # Machine Learning Models
-Logistic Regression
-Decision Tree
-K-Nearest Neighbors (KNN)
-Random Forest
-Support Vector Machine (SVM)
-Bagging
-AdaBoost
-Gradient Boosting
-XGBoost
-Artificial Neural Network (ANN)
+-Logistic Regression
+-Decision Tree
+-K-Nearest Neighbors (KNN)
+-Random Forest
+-Support Vector Machine (SVM)
+-Bagging
+-AdaBoost
+-Gradient Boosting
+-XGBoost
+-Artificial Neural Network (ANN)
